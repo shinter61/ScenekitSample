@@ -14,6 +14,7 @@
 		E507071F27598CD300D46C3E /* ScenekitSampleTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E507071E27598CD300D46C3E /* ScenekitSampleTests.swift */; };
 		E507072927598CD300D46C3E /* ScenekitSampleUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E507072827598CD300D46C3E /* ScenekitSampleUITests.swift */; };
 		E507072B27598CD300D46C3E /* ScenekitSampleUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E507072A27598CD300D46C3E /* ScenekitSampleUITestsLaunchTests.swift */; };
+		E5CA3944275A6FF000F94C6C /* MajanTileView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E5CA3943275A6FF000F94C6C /* MajanTileView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +45,7 @@
 		E507072427598CD300D46C3E /* ScenekitSampleUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ScenekitSampleUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		E507072827598CD300D46C3E /* ScenekitSampleUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScenekitSampleUITests.swift; sourceTree = "<group>"; };
 		E507072A27598CD300D46C3E /* ScenekitSampleUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScenekitSampleUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		E5CA3943275A6FF000F94C6C /* MajanTileView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MajanTileView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -98,6 +100,7 @@
 				E507070F27598CD200D46C3E /* ContentView.swift */,
 				E507071127598CD300D46C3E /* Assets.xcassets */,
 				E507071327598CD300D46C3E /* Preview Content */,
+				E5CA3943275A6FF000F94C6C /* MajanTileView.swift */,
 			);
 			path = ScenekitSample;
 			sourceTree = "<group>";
@@ -258,6 +261,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				E507071027598CD200D46C3E /* ContentView.swift in Sources */,
+				E5CA3944275A6FF000F94C6C /* MajanTileView.swift in Sources */,
 				E507070E27598CD200D46C3E /* ScenekitSampleApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
